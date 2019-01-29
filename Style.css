@@ -1,0 +1,17 @@
+h1{
+    color: darkolivegreen;
+}
+body{background-color: darkolivegreen}
+.container {background-color: gainsboro}
+h3{
+    color: darkolivegreen;
+}
+h5{
+    color: darkgreen;
+}
+.dp{
+    
+    border-radius: 50%;
+    right: 10dp;
+    position: relative;
+}
